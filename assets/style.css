@@ -15,7 +15,11 @@ h1,
 h2 {
     text-align: center;
     color:red;
-    font-size: 120px;
-
-    
+    font-size: 120px;  
 }
+.card {
+    width: 50%;
+    margin: 40px auto;
+    border: 5px solid black; 
+    box-shadow: 5px 10px darkgray;
+  }
