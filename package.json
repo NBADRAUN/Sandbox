@@ -1,0 +1,23 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "npm package",
+  "main": "script.js",
+  "scripts": {
+    "start": "node index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBADRAUN/Sandbox.git"
+  },
+  "author": "Nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBADRAUN/Sandbox/issues"
+  },
+  "homepage": "https://github.com/NBADRAUN/Sandbox#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
